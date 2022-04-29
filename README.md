@@ -1,6 +1,6 @@
 # JavaNetworkingTCP - 11/2021
 Java - networking in TCP protocol in managing student mark example (this include encrypt data by DES)
-#In use : Java core
+#In use : Java network
 Requirement/ problem :
 Xây chương trình giao diện socket client – server bằng java với giao thức TCP
 	Client:
